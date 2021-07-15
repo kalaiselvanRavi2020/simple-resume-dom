@@ -1,0 +1,101 @@
+.banner{
+    height:22rem;
+    width:100%;
+    background: #565656;
+}
+.container{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+    .myimg{
+        margin-left: 42%;
+        margin-right: 38%;
+        margin-top:2rem;
+        width:15%;
+        border-radius:100%;
+        border:6px dotted #FABE29;
+
+    }
+
+    .tittle{
+        text-align: center;
+        background: #FABE29;
+        position:relative;
+        margin-left:27.5rem;
+        margin-right:50rem;
+        margin-top: -4rem;
+        padding:1rem;
+        font-size: 2.25rem;
+        width:20rem;
+        height:4rem;
+        
+        border-radius: 10%;
+    }
+    .grey-stripe{
+        background-color: whitesmoke;
+        margin-top: 15.5rem;
+        position:absolute;       
+     }       
+        .invisible{
+            visibility: hidden;
+        }
+
+    .address{
+        text-align:center;
+        padding:1px;
+        margin-top: 10px;
+    }
+
+    .vertical {
+        border-left: 0.8px solid black;
+        height: 650px;
+        position:absolute;
+        left: 50%;
+    }
+    
+    .a {
+      position: relative;
+      width: 1200px;
+      height: 550px;
+    }
+    
+    .b {
+      position: absolute;
+      left: auto;
+      width: 600px;
+      height: 475px;
+      
+    } 
+    
+    .c {
+      position: absolute;
+      left: 620px;
+      width: 600px;
+      height: 475px;
+    } 
+    .title{
+        margin-left: 10px;
+        font-size:1.5rem;
+        
+    }
+#icon{
+    color:brown ; 
+    background:burlywood; 
+    border-radius: 10%;
+}
+#icon1{
+    color:brown ; 
+    background:burlywood; 
+    border-radius: 10%;
+}
+#icon2{
+    color:brown ; 
+    background:burlywood; 
+    border-radius: 10%;
+}
+#icon3{
+    color:brown ; 
+    background:burlywood; 
+    border-radius: 10%;
+}
